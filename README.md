@@ -74,6 +74,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
 
+* [Detecting LLVM Obfuscator](https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html)
+
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
 * [2017 Flare-on Challenge Solutions](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
