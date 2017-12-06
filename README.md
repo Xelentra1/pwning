@@ -260,6 +260,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [angr](https://github.com/angr/angr-doc/tree/master/examples)
 
+* [simavr](https://github.com/buserror/simavr)
+
 * [Klee & Angr](https://www.slideshare.net/bananaappletw/klee-and-angr-81332924)
 
 * [rVMI](https://github.com/fireeye/rVMI)
