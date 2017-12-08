@@ -206,6 +206,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
 
+* [Linux Exploitation Course](https://github.com/nnamon/linux-exploitation-course)
+
 * [pwnable.tw](https://pwnable.tw/)
 
 * [Pwn Challenges List](https://pastebin.com/uyifxgPu)
