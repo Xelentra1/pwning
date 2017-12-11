@@ -141,6 +141,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### _Papers / Techniques_
 
+* [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
+
 * [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
 
 * [File Stream Pointer Overflow](http://w0lfzhang.me/2016/11/19/File-Stream-Pointer-Overflow/)
@@ -154,8 +156,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Abusing Exit Handlers](http://binholic.blogspot.gr/2017/05/notes-on-abusing-exit-handlers.html)
 
 * https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
-
-* [CON Papers](https://paper.seebug.org/papers/Security%20Conf/)
 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
