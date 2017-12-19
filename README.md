@@ -36,6 +36,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [The magicians cape – 1 Byte Overflow](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/)
 
+* [Kernel Debugging for Newbies](http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html)
+
 * [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat)
 
 * [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
