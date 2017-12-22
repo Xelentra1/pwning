@@ -12,8 +12,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [RE Resources](https://github.com/wtsxDev/reverse-engineering)
 
-* [NSA's Reverse Engineering Resources](https://codebreaker.ltsnet.net/resources)
-
 * [FAQ: How to Learn Reverse Engineering](http://gynvael.coldwind.pl/?lang=en&id=664)
 
 * [R4ndom’s Beginning Reverse Engineering Tutorials](http://octopuslabs.io/legend/blog/sample-page.html)
