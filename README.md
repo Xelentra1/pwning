@@ -186,7 +186,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Angry Hacking](https://www.youtube.com/watch?v=oznsT-ptAbk)
 
-* [Implementing an LLVM based Dynamic Binary Instrumentation framework]https://media.ccc.de/v/34c3-9006-implementing_an_llvm_based_dynamic_binary_instrumentation_framework)
+* [Implementing an LLVM based Dynamic Binary Instrumentation framework](https://media.ccc.de/v/34c3-9006-implementing_an_llvm_based_dynamic_binary_instrumentation_framework)
 
 * [Miasm Reverse Engineering Framework](https://youtu.be/eW_JIO67VMg)
 
