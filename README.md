@@ -188,6 +188,12 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Implementing an LLVM based Dynamic Binary Instrumentation framework](https://media.ccc.de/v/34c3-9006-implementing_an_llvm_based_dynamic_binary_instrumentation_framework)
 
+* [Breaking Modern Binary Obfuscation](https://media.ccc.de/v/34c3-8789-lets_break_modern_binary_code_obfuscation#video)
+
+* [Reverse Engineering & Writing x86 Microcode](https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask)
+
+* [Reverse Engineering FPGAs](https://media.ccc.de/v/34c3-9237-reverse_engineering_fpgas)
+
 * [Miasm Reverse Engineering Framework](https://youtu.be/eW_JIO67VMg)
 
 * [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
