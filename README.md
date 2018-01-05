@@ -1,8 +1,8 @@
 # pwning
 
-This repo contains resources/notes/blogs I've found on the interwebz related to binary exploitation and internals in general. I hope you find them as useful as I did.
+This repo contains resources/notes/blogs I've found on the interwebz related to Binary Exploitation & Reverse Engineering for the most part. I hope you find them as useful as I did.
 
-### _Blogs / Write-ups_
+### Blogs
 
 * [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
 
@@ -139,7 +139,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [KernelFarm](https://kernelfarm.com/index.html)
 
 
-### _Papers / Techniques_
+### Papers
 
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
@@ -160,7 +160,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
 
-### _Youtube Channels / CON Playlists_
+### Videos
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
@@ -185,6 +185,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
 
 * [Angry Hacking](https://www.youtube.com/watch?v=oznsT-ptAbk)
+
+* [Implementing an LLVM based Dynamic Binary Instrumentation framework]https://media.ccc.de/v/34c3-9006-implementing_an_llvm_based_dynamic_binary_instrumentation_framework)
 
 * [Miasm Reverse Engineering Framework](https://youtu.be/eW_JIO67VMg)
 
