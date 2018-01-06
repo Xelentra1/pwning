@@ -252,7 +252,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
-* [Libc Index](https://ftp.gnu.org/gnu/libc/?C=M;O=D)
+* [glibc Index](https://ftp.gnu.org/gnu/libc/?C=M;O=D)
 
 * [kex](https://github.com/theevilbit/kex/)
 
