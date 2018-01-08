@@ -139,13 +139,13 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [KernelFarm](https://kernelfarm.com/index.html)
 
 
-### Papers
+### Papers/Techniques
 
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
-* [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
+* [Tcache Attack](http://blog.rh0gue.com/2018-01-05-34c3ctf-simplegc/)
 
-* [File Stream Pointer Overflow](http://w0lfzhang.me/2016/11/19/File-Stream-Pointer-Overflow/)
+* [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
 
 * [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
 
