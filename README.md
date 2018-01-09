@@ -82,6 +82,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [A Journey into Radare 2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 
+* [Radare Basics](https://moveax.me/radare-basics/)
+
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
 * [megabeets](https://www.megabeets.net/)
