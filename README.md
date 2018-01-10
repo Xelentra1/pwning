@@ -220,6 +220,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Linux Exploitation Course](https://github.com/nnamon/linux-exploitation-course)
 
+* [CNS CTF Course](https://ocw.cs.pub.ro/courses/cns)
+
 * [pwnable.tw](https://pwnable.tw/)
 
 * [Pwn Challenges List](https://pastebin.com/uyifxgPu)
