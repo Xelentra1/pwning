@@ -62,6 +62,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ARM Lab Environment](https://azeria-labs.com/arm-lab-vm/)
 
+* [Reversing & Exploiting Embedded Devices](https://p16.praetorian.com/blog/reversing-and-exploiting-embedded-devices-part-1-the-software-stack)
+
 * [IoT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 
 * [iOS RE](https://github.com/iosre/iOSAppReverseEngineering)
