@@ -2,7 +2,7 @@
 
 This repo contains resources/notes/blogs I've found on the interwebz related to Binary Exploitation & Reverse Engineering for the most part. I hope you find them as useful as I did.
 
-### Blogs
+### Resources
 
 * [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
 
@@ -88,6 +88,11 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
+* [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
+
+
+### Blogs
+
 * [megabeets](https://www.megabeets.net/)
 
 * [uafio](http://uaf.io)
@@ -135,8 +140,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [wapiflapi](http://wapiflapi.github.io/)
 
 * [4rbit3r](https://jkrshnmenon.wordpress.com/)
-
-* [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
@@ -214,7 +217,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [r2con 2016](https://www.youtube.com/watch?list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU&v=QVjrqlo5A9g)
 
-### _Practice_
+### Practice
 
 * [ctftime](ctftime.org)
 
@@ -252,7 +255,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [iOS CTF](https://www.ivrodriguez.com/mobile-ctf)
 
-### _Tools_
+### Tools
 
 * [gef](https://github.com/hugsy/gef)
 
