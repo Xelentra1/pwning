@@ -146,7 +146,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [KernelFarm](https://kernelfarm.com/index.html)
 
 
-### Papers/Techniques
+### Papers-Techniques
 
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
