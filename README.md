@@ -154,6 +154,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Bypassing _IO_vtable_check](http://blog.rh0gue.com/2017-12-31-34c3ctf-300/)
 
+* [FILE Structure Exploitation - Bypassing The vtable Check](https://dhavalkapil.com/blogs/FILE-Structure-Exploitation/)
+
 * [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
 
 * [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
