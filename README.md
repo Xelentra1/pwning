@@ -251,6 +251,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [how2exploit](https://github.com/bert88sta/how2exploit_binary)
 
+* [Damn Vulnerable ARM Router](http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
+
 * [Very Vulnerable ARM Application](https://github.com/bkerler/exploit_me)
 
 * [ARM Exploitation Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)
