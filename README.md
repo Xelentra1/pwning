@@ -283,6 +283,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Unicorn Engine](https://github.com/unicorn-engine/unicorn)
 
+* [Unicorn Engine Tutorial](http://eternal.red/2018/unicorn-engine-tutorial/)
+
 * [usercorn](https://github.com/lunixbochs/usercorn)
 
 * [IDA EA](https://github.com/1111joe1111/ida_ea)
