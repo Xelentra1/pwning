@@ -273,6 +273,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [BNinja Plugins](https://github.com/Vector35/community-plugins/tree/master/plugins)
 
+* [Binary Ninja AVR Plugin](https://github.com/fluxchief/binaryninja_avr)
+
 * [pwnjs](https://github.com/theori-io/pwnjs)
 
 * [preeny](https://github.com/zardus/preeny)
