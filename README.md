@@ -70,6 +70,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Reversing and Exploiting ARM Binaries](http://www.mathyvanhoef.com/2013/12/reversing-and-exploiting-arm-binaries.html)
 
+* [Lua RE](https://github.com/feicong/lua_re)
+
 * [Reversing GO Binaries Like a Pro](https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/)
 
 * [Golang Reversing Write-up](http://eternal.red/2017/dont_panic-writeup/)
