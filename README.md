@@ -279,6 +279,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [preeny](https://github.com/zardus/preeny)
 
+* [rappel](https://github.com/yrp604/rappel)
+
 * [Witchcraft Compiler Collection](https://github.com/endrazine/wcc)
 
 * [Using the Witchcraft Compiler Collection to debug ARM](https://github.com/endrazine/wcc/wiki/wsh-with-ARM)
