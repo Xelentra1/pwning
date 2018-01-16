@@ -269,6 +269,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
 
+* [pwndbg](https://github.com/pwndbg/pwndbg)
+
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
 * [glibc Index](https://ftp.gnu.org/gnu/libc/?C=M;O=D)
