@@ -237,6 +237,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [RE Challenges List](https://pastebin.com/q7LGi8w5)
 
+* [Reverse Engineering Challenges](http://www.ctf.ma/)
+
 * [HITCON Training](https://github.com/scwuaptx/HITCON-Training/tree/master/LAB)
 
 * [how2heap](https://github.com/shellphish/how2heap)
