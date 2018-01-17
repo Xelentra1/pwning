@@ -92,6 +92,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
 
+* [The Unofficial GNU Mach IPC beginner's guide](http://hurdextras.nongnu.org/ipc_guide/ipc_guide.html)
+
 
 ### Blogs
 
