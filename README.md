@@ -4,6 +4,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### Resources
 
+* [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit%20Development.md#winheap)
+
 * [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
 
 * [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
