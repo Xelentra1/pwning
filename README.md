@@ -1,6 +1,6 @@
 # pwning
 
-This repo contains resources/notes/blogs I've found on the interwebz related to Binary Exploitation & Reverse Engineering for the most part. I hope you find them as useful as I did.
+This repo contains resources/notes/blogs I've found on the interwebz related to Binary Exploitation & Reverse Engineering internals for the most part. I hope you find them as useful as I did.
 
 ### Resources
 
@@ -93,6 +93,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
 
 * [The Unofficial GNU Mach IPC beginner's guide](http://hurdextras.nongnu.org/ipc_guide/ipc_guide.html)
+
+* [mach_port_t for inter-process communication](http://fdiv.net/2011/01/14/machportt-inter-process-communication)
 
 
 ### Blogs
