@@ -96,6 +96,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [The Unofficial GNU Mach IPC beginner's guide](http://hurdextras.nongnu.org/ipc_guide/ipc_guide.html)
 
+* [Mach IPC Programming](http://hurdextras.nongnu.org/ipc_guide/mach_ipc_basic_concepts.html#1.1.1)
+
 * [mach_port_t for inter-process communication](http://fdiv.net/2011/01/14/machportt-inter-process-communication)
 
 
