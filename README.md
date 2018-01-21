@@ -158,6 +158,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### Papers-Techniques
 
+* [Understanding The Heap by Breaking It](http://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf)
+
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
 * [Tcache Attack](http://blog.rh0gue.com/2018-01-05-34c3ctf-simplegc/)
