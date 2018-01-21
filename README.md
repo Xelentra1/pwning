@@ -287,6 +287,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [BNinja Plugins](https://github.com/Vector35/community-plugins/tree/master/plugins)
 
+* [Introduction to the Binary Ninja API](http://arm.ninja/2016/03/08/intro-to-binary-ninja-api/)
+
 * [Binary Ninja AVR Plugin](https://github.com/fluxchief/binaryninja_avr)
 
 * [pwnjs](https://github.com/theori-io/pwnjs)
