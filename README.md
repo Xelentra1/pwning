@@ -241,6 +241,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [CNS CTF Course](https://ocw.cs.pub.ro/courses/cns)
 
+* [CNIT 127: Exploit Development](https://samsclass.info/127/127_S18.shtml)
+
 * [pwnable.tw](https://pwnable.tw/)
 
 * [Pwn Challenges List](https://pastebin.com/uyifxgPu)
