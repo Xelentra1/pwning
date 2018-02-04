@@ -6,7 +6,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Weird machines, exploitability,	and provable unexploitability ](https://vimeo.com/252868605)
 
-* [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit%20Development.md#winheap)
+* [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit%20Development.md)
 
 * [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
 
