@@ -247,7 +247,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [pwnable.tw](https://pwnable.tw/)
 
-* [Pwn Challenges List](https://pastebin.com/uyifxgPu)
+* [Pwn Challenges List](https://ctf.katsudon.org/ctf4u/)
 
 * [RE Challenges List](https://pastebin.com/q7LGi8w5)
 
