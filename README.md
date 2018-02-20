@@ -249,7 +249,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwn Challenges List](https://ctf.katsudon.org/ctf4u/)
 
-* [RE Challenges List](https://pastebin.com/q7LGi8w5)
+* [Reversing Challenges List](https://github.com/N4NU/Reversing-Challenges-List/blob/master/README.md)
 
 * [Reverse Engineering Challenges](http://www.ctf.ma/)
 
