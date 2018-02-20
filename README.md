@@ -251,8 +251,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Reversing Challenges List](https://github.com/N4NU/Reversing-Challenges-List/blob/master/README.md)
 
-* [Reverse Engineering Challenges](http://www.ctf.ma/)
-
 * [HITCON Training](https://github.com/scwuaptx/HITCON-Training/tree/master/LAB)
 
 * [how2heap](https://github.com/shellphish/how2heap)
