@@ -158,7 +158,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [KernelFarm](https://kernelfarm.com/index.html)
 
 
-### Papers-Techniques
+### Papers & Techniques
 
 * [Understanding The Heap by Breaking It](http://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf)
 
@@ -288,6 +288,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [glibc Index](https://ftp.gnu.org/gnu/libc/?C=M;O=D)
 
 * [kex](https://github.com/theevilbit/kex/)
+
+* [Static ARM Binaries](https://github.com/therealsaumil/static-arm-bins/)
 
 * [BNinja Plugins](https://github.com/Vector35/community-plugins/tree/master/plugins)
 
