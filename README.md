@@ -209,6 +209,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
 
+* [Be a Binary Rockstar](https://vimeo.com/215511922)
+
 * [Angry Hacking](https://www.youtube.com/watch?v=oznsT-ptAbk)
 
 * [Implementing an LLVM based Dynamic Binary Instrumentation Framework](https://media.ccc.de/v/34c3-9006-implementing_an_llvm_based_dynamic_binary_instrumentation_framework)
