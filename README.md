@@ -160,6 +160,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### Papers & Techniques
 
+* [About Exploits Writing](https://paper.seebug.org/papers/Archive/refs/2002.gera_.About_Exploits_Writing.pdf)
+
 * [Understanding The Heap by Breaking It](http://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf)
 
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
