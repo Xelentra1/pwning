@@ -293,6 +293,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [glibc Index](https://ftp.gnu.org/gnu/libc/?C=M;O=D)
 
+* [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF)
+
 * [kex](https://github.com/theevilbit/kex/)
 
 * [Static ARM Binaries](https://github.com/therealsaumil/static-arm-bins/)
