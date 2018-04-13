@@ -174,9 +174,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
 
-* [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
-
-* [ROP ret2dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
+* [ret2dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
 
 * [Bypassing Seccomp Rules & FORTIFY_SOURCE](https://bruce30262.github.io/2017/11/20/hxp-CTF-2017-hardened-flag-store/)
 
