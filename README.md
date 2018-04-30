@@ -4,6 +4,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### Resources
 
+* [Symbolic Execution Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
+
 * [Weird machines, exploitability,	and provable unexploitability ](https://vimeo.com/252868605)
 
 * [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit%20Development.md)
