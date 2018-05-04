@@ -291,6 +291,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
+* [CTF Script Samples](https://github.com/uafio/git/tree/master/scripts/samples)
+
 * [glibc Index](https://ftp.gnu.org/gnu/libc/?C=M;O=D)
 
 * [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF)
