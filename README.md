@@ -1,8 +1,8 @@
-# pwning
+## pwning
 
 This repo contains resources/notes/blogs I've found on the interwebz related to Binary Exploitation & Reverse Engineering internals for the most part. I hope you find them as useful as I did.
 
-### Resources
+#### Resources
 
 * [Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
 
@@ -105,84 +105,32 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [mach_port_t for inter-process communication](http://fdiv.net/2011/01/14/machportt-inter-process-communication)
 
 
-### Blogs
+#### Blogs / Write-ups
 
-* [megabeets](https://www.megabeets.net/)
+* [kileak](https://kileak.github.io/)
 
 * [uafio](http://uaf.io)
 
 * [rh0gue](http://blog.rh0gue.com/)
 
-* [kileak](https://kileak.github.io/)
-
 * [Bruce Chen](https://bruce30262.github.io)
-
-* [hackndo](http://beta.hackndo.com/)
 
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
-* [w0lfzhang](http://w0lfzhang.me/)
 
-* [pwn4fun](http://pwn4.fun/)
+#### Papers / Techniques
 
-* [Mutepig](http://www.mutepig.club/)
-
-* [inaz2](http://inaz2.hatenablog.com/entry/2016/10/13/203019)
-
-* [glem](https://glennmcgui.re/)
-
-* [rootkits.xyz](https://rootkits.xyz/blog/)
-
-* [hugsy](https://blahcat.github.io/)
-
-* [fevral](https://fevral.github.io)
-
-* [codemaxx](https://codemaxx.github.io/)
-
-* [RPISEC](http://blog.rpis.ec/)
-
-* [BinaryStudio](https://binarystud.io/)
-
-* [acez.re](http://acez.re/)
-
-* [gbmaster](https://gbmaster.wordpress.com/)
-
-* [XPN](https://blog.xpnsec.com/)
-
-* [poning](https://poning.me/)
-
-* [wapiflapi](http://wapiflapi.github.io/)
-
-* [4rbit3r](https://jkrshnmenon.wordpress.com/)
-
-* [skullsecurity](https://blog.skullsecurity.org/)
-
-* [KernelFarm](https://kernelfarm.com/index.html)
-
-
-### Papers & Techniques
+* [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
 * [About Exploits Writing](https://paper.seebug.org/papers/Archive/refs/2002.gera_.About_Exploits_Writing.pdf)
 
-* [Understanding The Heap by Breaking It](http://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf)
-
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
-* [Tcache Attack](http://blog.rh0gue.com/2018-01-05-34c3ctf-simplegc/)
-
 * [Bypassing _IO_vtable_check](http://blog.rh0gue.com/2017-12-31-34c3ctf-300/)
-
-* [FILE Structure Exploitation - Bypassing The vtable Check](https://dhavalkapil.com/blogs/FILE-Structure-Exploitation/)
 
 * [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
 
 * [ret2dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
-
-* [Bypassing Seccomp Rules & FORTIFY_SOURCE](https://bruce30262.github.io/2017/11/20/hxp-CTF-2017-hardened-flag-store/)
-
-* [Abusing Exit Handlers](http://binholic.blogspot.gr/2017/05/notes-on-abusing-exit-handlers.html)
-
-* https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
@@ -233,11 +181,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [REcon 2017](https://m.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x)
 
-* [r2con 2017](https://www.youtube.com/watch?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S&v=URyd4bcV-Ik)
 
-* [r2con 2016](https://www.youtube.com/watch?list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU&v=QVjrqlo5A9g)
-
-### Practice
+#### Practice
 
 * [ctftime](ctftime.org)
 
@@ -281,7 +226,9 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [iOS CTF](https://www.ivrodriguez.com/mobile-ctf)
 
-### Tools
+#### Tools
+
+* [peda](https://github.com/longld/peda)
 
 * [gef](https://github.com/hugsy/gef)
 
