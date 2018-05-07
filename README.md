@@ -135,7 +135,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
 
-#### Videos
+#### Youtube Channels
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
@@ -151,13 +151,14 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
 
-* [The Ultimate Game Boy Talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
-
-* [WinDbg Series](https://www.youtube.com/watch?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu&v=8zBpqc3HkSE)
-
 * [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg/feed)
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
+
+
+#### Videos
+
+* [The Cerberus Memory Object Semantics for ISO and De Facto C](https://www.youtube.com/watch?v=SI3uycKDH8Y)
 
 * [Be a Binary Rockstar](https://vimeo.com/215511922)
 
@@ -180,6 +181,10 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Reverse Engineering Embedded ARM Devices](https://www.youtube.com/watch?v=oXSx0Qo2Upk)
 
 * [REcon 2017](https://m.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x)
+
+* [The Ultimate Game Boy Talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
+
+* [WinDbg Series](https://www.youtube.com/watch?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu&v=8zBpqc3HkSE)
 
 
 #### Practice
