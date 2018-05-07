@@ -1,6 +1,6 @@
 ## pwning
 
-This repo contains resources/notes/blogs I've found on the interwebz related to Binary Exploitation & Reverse Engineering internals for the most part. I hope you find them as useful as I did.
+This repo contains resources I've found on the interwebz related to Binary Exploitation and Reverse Engineering. I hope you find them as useful as I did.
 
 #### Resources
 
@@ -18,7 +18,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [RE Resources](https://github.com/wtsxDev/reverse-engineering)
 
-* [FAQ: How to Learn Reverse Engineering](http://gynvael.coldwind.pl/?lang=en&id=664)
+* [Gynvael - How to Learn Reverse Engineering](http://gynvael.coldwind.pl/?lang=en&id=664)
 
 * [R4ndom’s Beginning Reverse Engineering Tutorials](http://octopuslabs.io/legend/blog/sample-page.html)
 
@@ -28,17 +28,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [SAT/SMT Solvers and Symbolic Execution](https://yurichev.com/writings/SAT_SMT_draft-EN.pdf)
 
-* [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
-
-* [Malloc Internals](https://sourceware.org/glibc/wiki/MallocInternals)
-
-* [Heap Exploitation](https://heap-exploitation.dhavalkapil.com)
-
 * [afl-unicorn: Fuzzing Arbitrary Binary Code](https://medium.com/@njvoss299/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf)
-
-* [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
-
-* [The magicians cape – 1 Byte Overflow](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/)
 
 * [Kernel Debugging for Newbies](http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html)
 
@@ -86,23 +76,9 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Detecting LLVM Obfuscator](https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html)
 
-* [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
-
-* [2017 Flare-on Challenge Solutions](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
-
-* [A Journey into Radare 2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
-
-* [Radare Basics](https://moveax.me/radare-basics/)
-
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
 * [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
-
-* [The Unofficial GNU Mach IPC beginner's guide](http://hurdextras.nongnu.org/ipc_guide/ipc_guide.html)
-
-* [Mach IPC Programming](http://hurdextras.nongnu.org/ipc_guide/mach_ipc_basic_concepts.html#1.1.1)
-
-* [mach_port_t for inter-process communication](http://fdiv.net/2011/01/14/machportt-inter-process-communication)
 
 
 #### Blogs / Write-ups
@@ -159,6 +135,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 #### Videos
 
 * [The Cerberus Memory Object Semantics for ISO and De Facto C](https://www.youtube.com/watch?v=SI3uycKDH8Y)
+
+* [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
 * [Be a Binary Rockstar](https://vimeo.com/215511922)
 
