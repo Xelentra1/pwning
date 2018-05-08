@@ -221,6 +221,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
+* [HeapViewer](https://github.com/danigargu/heap-viewer)
+
 * [CTF Script Samples](https://github.com/uafio/git/tree/master/scripts/samples)
 
 * [glibc Index](https://ftp.gnu.org/gnu/libc/?C=M;O=D)
