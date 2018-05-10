@@ -64,6 +64,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [IoT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 
+* [OSX / iOS Reverse Engineering](https://github.com/michalmalik/osx-re-101)
+
 * [iOS RE](https://github.com/iosre/iOSAppReverseEngineering)
 
 * [Reversing and Exploiting ARM Binaries](http://www.mathyvanhoef.com/2013/12/reversing-and-exploiting-arm-binaries.html)
