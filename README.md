@@ -16,6 +16,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Linux Reverse Engineering](https://github.com/michalmalik/linux-re-101)
 
+* [Reverse Engineering Reading List](https://github.com/onethawt/reverseengineering-reading-list)
+
 * [RE Resources](https://github.com/wtsxDev/reverse-engineering)
 
 * [Gynvael - How to Learn Reverse Engineering](http://gynvael.coldwind.pl/?lang=en&id=664)
