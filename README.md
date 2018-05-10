@@ -226,6 +226,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
+* [z3 Playground](https://github.com/0vercl0k/z3-playground)
+
 * [HeapViewer](https://github.com/danigargu/heap-viewer)
 
 * [CTF Script Samples](https://github.com/uafio/git/tree/master/scripts/samples)
