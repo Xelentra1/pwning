@@ -10,6 +10,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit%20Development.md)
 
+* [About Exploits Writing](https://paper.seebug.org/papers/Archive/refs/2002.gera_.About_Exploits_Writing.pdf)
+
 * [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
 
 * [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
@@ -102,7 +104,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
-* [About Exploits Writing](https://paper.seebug.org/papers/Archive/refs/2002.gera_.About_Exploits_Writing.pdf)
+* [House of Roman](https://gist.github.com/romanking98/9aab2804832c0fb46615f025e8ffb0bc)
 
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
