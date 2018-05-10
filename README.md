@@ -236,6 +236,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Static ARM Binaries](https://github.com/therealsaumil/static-arm-bins/)
 
+* [IDA Plugin List](https://github.com/onethawt/idaplugins-list)
+
 * [BNinja Plugins](https://github.com/Vector35/community-plugins/tree/master/plugins)
 
 * [Introduction to the Binary Ninja API](http://arm.ninja/2016/03/08/intro-to-binary-ninja-api/)
