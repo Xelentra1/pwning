@@ -230,6 +230,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [z3 Playground](https://github.com/0vercl0k/z3-playground)
 
+* [arm_now](https://github.com/nongiach/arm_now)
+
 * [HeapViewer](https://github.com/danigargu/heap-viewer)
 
 * [CTF Script Samples](https://github.com/uafio/git/tree/master/scripts/samples)
