@@ -232,6 +232,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [arm_now](https://github.com/nongiach/arm_now)
 
+* [cgasm](https://github.com/bnagy/cgasm)
+
 * [HeapViewer](https://github.com/danigargu/heap-viewer)
 
 * [CTF Script Samples](https://github.com/uafio/git/tree/master/scripts/samples)
