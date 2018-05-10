@@ -171,17 +171,17 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
 
+* [pwnable.tw](https://pwnable.tw/)
+
+* [crackmes](https://crackmes.one/)
+
 * [Linux Exploitation Course](https://github.com/nnamon/linux-exploitation-course)
 
 * [CNS CTF Course](https://ocw.cs.pub.ro/courses/cns)
 
 * [CNIT 127: Exploit Development](https://samsclass.info/127/127_S18.shtml)
 
-* [pwnable.tw](https://pwnable.tw/)
-
 * [Pwn Challenges List](https://ctf.katsudon.org/ctf4u/)
-
-* [crackmes](https://crackmes.one/)
 
 * [Reversing Challenges List](https://github.com/N4NU/Reversing-Challenges-List/blob/master/README.md)
 
@@ -208,6 +208,9 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [ARM Exploitation Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)
 
 * [iOS CTF](https://www.ivrodriguez.com/mobile-ctf)
+
+* [AFL Training](https://github.com/ThalesIgnite/afl-training)
+
 
 #### Tools
 
