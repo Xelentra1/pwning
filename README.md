@@ -246,6 +246,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF)
 
+* [Multiverse](https://github.com/utds3lab/multiverse)
+
 * [kex](https://github.com/theevilbit/kex/)
 
 * [Static ARM Binaries](https://github.com/therealsaumil/static-arm-bins/)
