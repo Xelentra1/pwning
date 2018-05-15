@@ -97,6 +97,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Bruce Chen](https://bruce30262.github.io)
 
+* [Sakura](http://eternalsakura13.com/)
+
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
 
