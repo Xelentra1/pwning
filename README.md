@@ -95,6 +95,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [rh0gue](http://blog.rh0gue.com/)
 
+* [ret2systems](http://blog.ret2.io/)
+
 * [Bruce Chen](https://bruce30262.github.io)
 
 * [Sakura](http://eternalsakura13.com/)
