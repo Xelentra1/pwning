@@ -102,11 +102,13 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
 
-#### Papers / Techniques
+#### Talks/ Papers / Techniques 
 
 * [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
 * [House of Roman](https://gist.github.com/romanking98/9aab2804832c0fb46615f025e8ffb0bc)
+
+* [Triton & Symbolic Execution on GDB](https://www.slideshare.net/bananaappletw/triton-and-symbolic-execution-on-gdbdef-con-china-97054877)
 
 * [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
