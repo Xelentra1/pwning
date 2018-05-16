@@ -129,7 +129,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Murmus](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
 
-* [Adam Doupe](https://www.youtube.com/channel/UCWA6pfcx4Ok4xsIA7Mkr39w/feed)
+* [Adam Doupé](https://www.youtube.com/channel/UCWA6pfcx4Ok4xsIA7Mkr39w/feed)
 
 * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
 
