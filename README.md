@@ -104,7 +104,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
 
-#### Talks/ Papers / Techniques 
+#### Talks / Papers / Techniques 
 
 * [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
@@ -239,6 +239,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
 * [z3 Playground](https://github.com/0vercl0k/z3-playground)
+
+* [idaemu](https://github.com/36hours/idaemu)
 
 * [arm_now](https://github.com/nongiach/arm_now)
 
