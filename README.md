@@ -2,7 +2,7 @@
 
 This repo contains resources I've found on the interwebz related to Binary Exploitation and Reverse Engineering. I hope you find them as useful as I did.
 
-#### Resources
+#### Fundamentals
 
 * [Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
 
@@ -78,10 +78,6 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Golang Reversing Write-up](http://eternal.red/2017/dont_panic-writeup/)
 
-* [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
-
-* [Detecting LLVM Obfuscator](https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html)
-
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
 * [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
@@ -103,7 +99,9 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
-* [Vulnerability Modeling With Binary Ninja]https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/)
+* [Vulnerability Modeling With Binary Ninja](https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/)
+
+* [Detecting LLVM Obfuscator](https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html)
 
 
 #### Talks / Papers / Techniques 
@@ -239,6 +237,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
 * [z3 Playground](https://github.com/0vercl0k/z3-playground)
+
+* [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
 
 * [idaemu](https://github.com/36hours/idaemu)
 
