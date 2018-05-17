@@ -103,6 +103,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
+* [Vulnerability Modeling With Binary Ninja]https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/)
+
 
 #### Talks / Papers / Techniques 
 
@@ -111,8 +113,6 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [House of Roman](https://gist.github.com/romanking98/9aab2804832c0fb46615f025e8ffb0bc)
 
 * [Triton & Symbolic Execution on GDB](https://www.slideshare.net/bananaappletw/triton-and-symbolic-execution-on-gdbdef-con-china-97054877)
-
-* [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
 
 * [Bypassing _IO_vtable_check](http://blog.rh0gue.com/2017-12-31-34c3ctf-300/)
 
