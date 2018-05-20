@@ -6,6 +6,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
 
+* [Practical Symbolic Execution and SATisfiability Module Theories 101](http://deniable.org/reversing/symbolic-execution)
+
 * [Weird machines, exploitability,	and provable unexploitability ](https://vimeo.com/252868605)
 
 * [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit%20Development.md)
