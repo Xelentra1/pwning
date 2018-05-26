@@ -197,6 +197,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Linux Exploitation Course](https://github.com/nnamon/linux-exploitation-course)
 
+* [GTFOBins](https://gtfobins.github.io/)
+
 * [CNS CTF Course](https://ocw.cs.pub.ro/courses/cns)
 
 * [CNIT 127: Exploit Development](https://samsclass.info/127/127_S18.shtml)
