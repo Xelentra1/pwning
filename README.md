@@ -16,7 +16,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [About Exploits Writing](https://paper.seebug.org/papers/Archive/refs/2002.gera_.About_Exploits_Writing.pdf)
 
-* [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
+* [The Art of Assembly Language](http://flint.cs.yale.edu/cs422/doc/art-of-asm/pdf/)
 
 * [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
 
