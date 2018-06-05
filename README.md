@@ -109,9 +109,12 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Vulnerability Modeling With Binary Ninja](https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/)
 
+* [Triton & Symbolic Execution on GDB](https://www.slideshare.net/bananaappletw/triton-and-symbolic-execution-on-gdbdef-con-china-97054877)
+
 * [Detecting LLVM Obfuscator](https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html)
 
 * [OpenBSD Kernel Internals - Creation of process from user-space to kernel space](https://medium.com/@_neerajpal/openbsd-kernel-internals-creation-of-process-from-user-space-to-kernel-space-31a504389f87)
+
 
 #### Papers / Techniques 
 
@@ -119,7 +122,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [House of Roman](https://gist.github.com/romanking98/9aab2804832c0fb46615f025e8ffb0bc)
 
-* [Triton & Symbolic Execution on GDB](https://www.slideshare.net/bananaappletw/triton-and-symbolic-execution-on-gdbdef-con-china-97054877)
+* [Main Arena OOB Write](http://tacxingxing.com/2018/04/20/hitbgsecxctf-2018-writeup/#toc_1)
 
 * [Bypassing _IO_vtable_check](http://blog.rh0gue.com/2017-12-31-34c3ctf-300/)
 
@@ -160,6 +163,10 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [Finding Security Vulnerabilities with Modern Fuzzing Techniques](https://www.youtube.com/watch?list=PLbDDsIuMYNGzNPUVQa7PLfLz3eC6EaqC9&v=KFmeHz_vxfo)
 
 * [The Cerberus Memory Object Semantics for ISO and De Facto C](https://www.youtube.com/watch?v=SI3uycKDH8Y)
+
+* [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU&app=desktop)
+
+* [Want fast C++? Know your hardware!](https://www.youtube.com/watch?v=BP6NxVxDQIs)
 
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
