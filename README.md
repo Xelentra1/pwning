@@ -113,7 +113,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [OpenBSD Kernel Internals - Creation of process from user-space to kernel space](https://medium.com/@_neerajpal/openbsd-kernel-internals-creation-of-process-from-user-space-to-kernel-space-31a504389f87)
 
-#### Talks / Papers / Techniques 
+#### Papers / Techniques 
 
 * [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
@@ -155,7 +155,9 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
 
 
-#### Videos
+#### Videos / Talks
+
+* [Finding Security Vulnerabilities with Modern Fuzzing Techniques](https://www.youtube.com/watch?list=PLbDDsIuMYNGzNPUVQa7PLfLz3eC6EaqC9&v=KFmeHz_vxfo)
 
 * [The Cerberus Memory Object Semantics for ISO and De Facto C](https://www.youtube.com/watch?v=SI3uycKDH8Y)
 
