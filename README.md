@@ -160,6 +160,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
+* [Why does my exploit spawn a shell and die?](https://www.youtube.com/watch?v=woO28QPptOE)
+
 * [Be a Binary Rockstar](https://vimeo.com/215511922)
 
 * [Angry Hacking](https://www.youtube.com/watch?v=oznsT-ptAbk)
