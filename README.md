@@ -268,6 +268,10 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [z3 Playground](https://github.com/0vercl0k/z3-playground)
 
+* [angr](https://github.com/angr/angr-doc/tree/master/examples)
+
+* [angr_ctf](https://github.com/jakespringer/angr_ctf)
+
 * [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
 
 * [idaemu](https://github.com/36hours/idaemu)
@@ -325,8 +329,6 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [manticore](https://github.com/trailofbits/manticore)
 
 * [Magic with Manticore](https://blog.trailofbits.com/2017/05/15/magic-with-manticore/)
-
-* [angr](https://github.com/angr/angr-doc/tree/master/examples)
 
 * [simavr](https://github.com/buserror/simavr)
 
