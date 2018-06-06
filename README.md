@@ -2,9 +2,13 @@
 
 This repo contains resources I've found on the interwebz related to Binary Exploitation and Reverse Engineering. I hope you find them as useful as I did.
 
-#### Resources
+#### Fundamentals
+
+* [Reverse Engineering Open Course](http://martin.uy/blog/projects/reverse-engineering/)
 
 * [Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
+
+* [Practical Symbolic Execution and SATisfiability Module Theories 101](http://deniable.org/reversing/symbolic-execution)
 
 * [Weird machines, exploitability,	and provable unexploitability ](https://vimeo.com/252868605)
 
@@ -12,7 +16,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [About Exploits Writing](https://paper.seebug.org/papers/Archive/refs/2002.gera_.About_Exploits_Writing.pdf)
 
-* [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
+* [The Art of Assembly Language](http://flint.cs.yale.edu/cs422/doc/art-of-asm/pdf/)
 
 * [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
 
@@ -78,10 +82,6 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Golang Reversing Write-up](http://eternal.red/2017/dont_panic-writeup/)
 
-* [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
-
-* [Detecting LLVM Obfuscator](https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html)
-
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
 * [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
@@ -99,20 +99,30 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Bruce Chen](https://bruce30262.github.io)
 
+* [NextLine](https://lyoungjoo.github.io/)
+
+* [tacxingxing.com](http://tacxingxing.com/)
+
 * [Sakura](http://eternalsakura13.com/)
 
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
+* [Vulnerability Modeling With Binary Ninja](https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/)
 
-#### Talks/ Papers / Techniques 
+* [Triton & Symbolic Execution on GDB](https://www.slideshare.net/bananaappletw/triton-and-symbolic-execution-on-gdbdef-con-china-97054877)
+
+* [Detecting LLVM Obfuscator](https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html)
+
+* [OpenBSD Kernel Internals - Creation of process from user-space to kernel space](https://medium.com/@_neerajpal/openbsd-kernel-internals-creation-of-process-from-user-space-to-kernel-space-31a504389f87)
+
+
+#### Papers / Techniques 
 
 * [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
 * [House of Roman](https://gist.github.com/romanking98/9aab2804832c0fb46615f025e8ffb0bc)
 
-* [Triton & Symbolic Execution on GDB](https://www.slideshare.net/bananaappletw/triton-and-symbolic-execution-on-gdbdef-con-china-97054877)
-
-* [An introduction of Use-After-Free detection in binary code by static analysis](http://blog.amossys.fr/intro-to-use-after-free-detection.html)
+* [Main Arena OOB Write](http://tacxingxing.com/2018/04/20/hitbgsecxctf-2018-writeup/#toc_1)
 
 * [Bypassing _IO_vtable_check](http://blog.rh0gue.com/2017-12-31-34c3ctf-300/)
 
@@ -131,6 +141,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Murmus](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
 
+* [BinaryAdventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
+
 * [Adam Doupé](https://www.youtube.com/channel/UCWA6pfcx4Ok4xsIA7Mkr39w/feed)
 
 * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
@@ -146,11 +158,19 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
 
 
-#### Videos
+#### Videos / Talks
+
+* [Finding Security Vulnerabilities with Modern Fuzzing Techniques](https://www.youtube.com/watch?list=PLbDDsIuMYNGzNPUVQa7PLfLz3eC6EaqC9&v=KFmeHz_vxfo)
 
 * [The Cerberus Memory Object Semantics for ISO and De Facto C](https://www.youtube.com/watch?v=SI3uycKDH8Y)
 
+* [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU&app=desktop)
+
+* [Want fast C++? Know your hardware!](https://www.youtube.com/watch?v=BP6NxVxDQIs)
+
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
+
+* [Why does my exploit spawn a shell and die?](https://www.youtube.com/watch?v=woO28QPptOE)
 
 * [Be a Binary Rockstar](https://vimeo.com/215511922)
 
@@ -189,7 +209,11 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [crackmes](https://crackmes.one/)
 
+* [Rode0day](https://rode0day.mit.edu/)
+
 * [Linux Exploitation Course](https://github.com/nnamon/linux-exploitation-course)
+
+* [GTFOBins](https://gtfobins.github.io/)
 
 * [CNS CTF Course](https://ocw.cs.pub.ro/courses/cns)
 
@@ -230,6 +254,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [peda](https://github.com/longld/peda)
 
+* [peda-arm](https://github.com/alset0326/peda-arm)
+
 * [gef](https://github.com/hugsy/gef)
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
@@ -238,9 +264,21 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
+* [Z3py Tutorial](https://github.com/ericpony/z3py-tutorial)
+
 * [z3 Playground](https://github.com/0vercl0k/z3-playground)
 
+* [angr](https://github.com/angr/angr-doc/tree/master/examples)
+
+* [angr_ctf](https://github.com/jakespringer/angr_ctf)
+
+* [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
+
+* [idaemu](https://github.com/36hours/idaemu)
+
 * [arm_now](https://github.com/nongiach/arm_now)
+
+* [uDdbg](https://github.com/iGio90/uDdbg)
 
 * [ARM64JSON](https://github.com/kov4l3nko/ARM64JSON)
 
@@ -291,8 +329,6 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [manticore](https://github.com/trailofbits/manticore)
 
 * [Magic with Manticore](https://blog.trailofbits.com/2017/05/15/magic-with-manticore/)
-
-* [angr](https://github.com/angr/angr-doc/tree/master/examples)
 
 * [simavr](https://github.com/buserror/simavr)
 
