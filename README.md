@@ -254,6 +254,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [peda](https://github.com/longld/peda)
 
+* [peda-arm](https://github.com/alset0326/peda-arm)
+
 * [gef](https://github.com/hugsy/gef)
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
