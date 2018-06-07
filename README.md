@@ -6,6 +6,10 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Reverse Engineering Open Course](http://martin.uy/blog/projects/reverse-engineering/)
 
+* [ELF Specs](http://www.skyfree.org/linux/references/ELF_Format.pdf)
+
+* [PE File Format](https://github.com/deptofdefense/SalSA/wiki/PE-File-Format)
+
 * [Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
 
 * [Practical Symbolic Execution and SATisfiability Module Theories 101](http://deniable.org/reversing/symbolic-execution)
