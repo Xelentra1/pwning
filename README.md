@@ -278,6 +278,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [angr_ctf](https://github.com/jakespringer/angr_ctf)
 
+* [angrgdb](https://github.com/andreafioraldi/angrgdb)
+
 * [IDAngr](https://github.com/andreafioraldi/IDAngr)
 
 * [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
