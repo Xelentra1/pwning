@@ -268,6 +268,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
+* [pwintools](https://github.com/masthoon/pwintools)
+
 * [Z3py Tutorial](https://github.com/ericpony/z3py-tutorial)
 
 * [z3 Playground](https://github.com/0vercl0k/z3-playground)
