@@ -266,6 +266,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [pwndbg](https://github.com/pwndbg/pwndbg)
 
+* [voltron](https://github.com/snare/voltron)
+
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
 * [seccomp-tools](https://github.com/david942j/seccomp-tools)
