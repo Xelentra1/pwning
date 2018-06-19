@@ -134,6 +134,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
 
+* [Return-to-dl-resolve](http://pwn4.fun/2016/11/09/Return-to-dl-resolve/)
+
 * [ret2dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
