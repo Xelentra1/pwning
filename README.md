@@ -314,6 +314,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [IDA Plugin List](https://github.com/onethawt/idaplugins-list)
 
+* [ret-sync](https://github.com/bootleg/ret-sync)
+
 * [BNinja Plugins](https://github.com/Vector35/community-plugins/tree/master/plugins)
 
 * [Introduction to the Binary Ninja API](http://arm.ninja/2016/03/08/intro-to-binary-ninja-api/)
