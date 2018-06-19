@@ -109,6 +109,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Sakura](http://eternalsakura13.com/)
 
+* [pwn.4fun](http://pwn4.fun/)
+
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
 * [Vulnerability Modeling With Binary Ninja](https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/)
