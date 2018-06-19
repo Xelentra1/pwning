@@ -6,6 +6,10 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Reverse Engineering Open Course](http://martin.uy/blog/projects/reverse-engineering/)
 
+* [ELF Specs](http://www.skyfree.org/linux/references/ELF_Format.pdf)
+
+* [PE File Format](https://github.com/deptofdefense/SalSA/wiki/PE-File-Format)
+
 * [Symbolic Execution: Intuition and Implementation](http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html)
 
 * [Practical Symbolic Execution and SATisfiability Module Theories 101](http://deniable.org/reversing/symbolic-execution)
@@ -105,6 +109,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [Sakura](http://eternalsakura13.com/)
 
+* [pwn.4fun](http://pwn4.fun/)
+
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
 * [Vulnerability Modeling With Binary Ninja](https://blog.trailofbits.com/2018/04/04/vulnerability-modeling-with-binary-ninja/)
@@ -116,7 +122,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [OpenBSD Kernel Internals - Creation of process from user-space to kernel space](https://medium.com/@_neerajpal/openbsd-kernel-internals-creation-of-process-from-user-space-to-kernel-space-31a504389f87)
 
 
-#### Papers / Techniques 
+#### Cool Techniques 
 
 * [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
@@ -127,6 +133,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [Bypassing _IO_vtable_check](http://blog.rh0gue.com/2017-12-31-34c3ctf-300/)
 
 * [FILE Structure Exploitation](http://4ngelboy.blogspot.gr/2017/11/play-with-file-structure-yet-another.html)
+
+* [Return-to-dl-resolve](http://pwn4.fun/2016/11/09/Return-to-dl-resolve/)
 
 * [ret2dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
 
@@ -199,7 +207,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [WinDbg Series](https://www.youtube.com/watch?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu&v=8zBpqc3HkSE)
 
 
-#### Practice
+#### Practice Makes Perfect
 
 * [ctftime](ctftime.org)
 
@@ -252,6 +260,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 #### Tools
 
+* [rr](https://github.com/mozilla/rr)
+
 * [peda](https://github.com/longld/peda)
 
 * [peda-arm](https://github.com/alset0326/peda-arm)
@@ -262,7 +272,13 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 * [pwndbg](https://github.com/pwndbg/pwndbg)
 
+* [voltron](https://github.com/snare/voltron)
+
 * [pwntools](https://github.com/Gallopsled/pwntools)
+
+* [seccomp-tools](https://github.com/david942j/seccomp-tools)
+
+* [pwintools](https://github.com/masthoon/pwintools)
 
 * [Z3py Tutorial](https://github.com/ericpony/z3py-tutorial)
 
@@ -271,6 +287,10 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [angr](https://github.com/angr/angr-doc/tree/master/examples)
 
 * [angr_ctf](https://github.com/jakespringer/angr_ctf)
+
+* [angrgdb](https://github.com/andreafioraldi/angrgdb)
+
+* [IDAngr](https://github.com/andreafioraldi/IDAngr)
 
 * [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
 
@@ -281,6 +301,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [uDdbg](https://github.com/iGio90/uDdbg)
 
 * [ARM64JSON](https://github.com/kov4l3nko/ARM64JSON)
+
+* [x86 Emulator](http://carlosrafaelgn.com.br/asm86/)
 
 * [cgasm](https://github.com/bnagy/cgasm)
 
@@ -299,6 +321,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [Static ARM Binaries](https://github.com/therealsaumil/static-arm-bins/)
 
 * [IDA Plugin List](https://github.com/onethawt/idaplugins-list)
+
+* [ret-sync](https://github.com/bootleg/ret-sync)
 
 * [BNinja Plugins](https://github.com/Vector35/community-plugins/tree/master/plugins)
 
