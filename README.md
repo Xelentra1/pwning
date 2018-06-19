@@ -122,7 +122,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [OpenBSD Kernel Internals - Creation of process from user-space to kernel space](https://medium.com/@_neerajpal/openbsd-kernel-internals-creation-of-process-from-user-space-to-kernel-space-31a504389f87)
 
 
-#### Papers / Techniques 
+#### Cool Techniques 
 
 * [From Heap to RIP](https://blog.frizn.fr/glibc/glibc-heap-to-rip)
 
@@ -301,6 +301,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [uDdbg](https://github.com/iGio90/uDdbg)
 
 * [ARM64JSON](https://github.com/kov4l3nko/ARM64JSON)
+
+* [x86 Emulator](http://carlosrafaelgn.com.br/asm86/)
 
 * [cgasm](https://github.com/bnagy/cgasm)
 
