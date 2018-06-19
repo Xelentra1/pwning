@@ -207,7 +207,7 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 * [WinDbg Series](https://www.youtube.com/watch?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu&v=8zBpqc3HkSE)
 
 
-#### Practice
+#### Practice Makes Perfect
 
 * [ctftime](ctftime.org)
 
@@ -259,6 +259,8 @@ This repo contains resources I've found on the interwebz related to Binary Explo
 
 
 #### Tools
+
+* [rr](https://github.com/mozilla/rr)
 
 * [peda](https://github.com/longld/peda)
 
